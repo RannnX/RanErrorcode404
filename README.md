@@ -13,6 +13,12 @@
 - 🕶️ Passionate about **Hacking** and love exploring web security vulnerabilities
 - 🎯 Goal this year: **Submit valid bug reports** on bounty platforms
 
+### 💻 Also passionate about Code & Development:
+- 👨‍💻 Enjoy writing scripts and building tools using **Python**, **Bash**, and **Go**
+- 🧩 Exploring **web development** using **HTML**, **CSS**, **JS**, and **PHP**
+- 🔧 Love solving problems with **C++**, working with **MySQL**, and tweaking on **Linux**
+- 💡 Always curious to automate boring tasks or build small tools for recon
+
 > *You don't need to be smarter than others, you just need to be more disciplined than others*
 
 ---
@@ -49,8 +55,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-
-  <!-- VS Code -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   </a>
+</p>
