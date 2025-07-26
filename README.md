@@ -14,7 +14,7 @@
 - 🎯 Goal this year: **Submit valid bug reports** on bounty platforms
 
 ### 💻 Also passionate about Code & Development:
-- 👨‍💻 Enjoy writing scripts and building tools using **Python**, **Bash**
+- 👨‍💻 Enjoy writing scripts and building tools using **Python**
 - 🧩 Exploring **web development** using **HTML**, **CSS**, and **JavaScript**
 - 🔧 Love solving problems and tweaking on **Linux**
 - 💡 Always curious to automate boring tasks or build small tools for recon
@@ -25,9 +25,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
