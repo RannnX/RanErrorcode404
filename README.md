@@ -4,7 +4,7 @@
 
 <div id="badges">
 <h1 align="center">Hi 👋, I'm Rannn</h1>
-<h3 align="center">I am 15 years old and still in vocational high school, I like to learn about hacking, and many others.</h3>
+<h3 align="center">I am a young person who likes to learn about hacking, code and others.</h3>
 
 ## 🧑‍💻 About Me
 - 🌱 Currently learning **Cybersecurity**, focusing on **Web Exploitation & Bug Bounty**
