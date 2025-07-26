@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 - 🌱 Currently learning **Cybersecurity**, focusing on **Web Exploitation & Bug Bounty**
-- 🧠 Exploring: **XSS**, **LFI**, **SQLi**, **Recon**
+- 🧠 Exploring: **XSS**, **LFI**, **SQLi**, **Recon**, **information disclosure**
 - ⚙️ I enjoy working with tools like **Burp Suite**, **Nmap**, **SQLMap**
 - 🕶️ Passionate about **Hacking** and love exploring web security vulnerabilities
 - 🎯 Goal this year: **Submit valid bug reports** on bounty platforms
