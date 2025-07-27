@@ -7,10 +7,10 @@
 <h3 align="center"></h3>
 
 ## 👨‍💻 About Me
-- I’m someone who loves to explore **technology**, **hacking**, and **code**
-- Always curious and excited to learn new things, especially in the cybersecurity field
-- My dream is to become a **Cyber Security Engineer**
-- Currently focused on self-learning and building experience through real practice
+- I’m Someone Who Loves To Explore **Technology**, **Hacking**, And **Code**
+- Always Curious And Excited To Learn New Things, Especially In The Cybersecurity Field
+- My Dream Is To Become A **Cyber Security Engineer**
+- Currently Focused On Self-Learning And Building Experience Through Real Practice
 
 ### 🛡️ Cybersecurity:
 - 🧠 Exploring: **XSS**, **LFI**, **SQLi**, **Recon**, **Information Disclosure**, **Sensitive File Exposure**
