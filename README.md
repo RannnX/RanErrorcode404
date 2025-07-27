@@ -4,9 +4,11 @@
 
 <div id="badges">
 <h1 align="center">Hi 👋, I'm Rannn</h1>
-<h3 align="center">I am a young person who likes to learn about hacking, code and others.</h3>
+<h3 align="center"></h3>
 
-## 👨‍💻 About Me
+## About Me
+- I am a young person who likes to learn about technology, such as **cyber security**, **code**, and others.
+## 👨‍💻 Cyber Security
 - 🌱 Currently learning **Cybersecurity**, focusing on **Web Exploitation & Bug Bounty**
 - 🧠 Exploring: **XSS**, **LFI**, **SQLi**, **Recon**
 - ⚙️ I enjoy working with tools like **Burp Suite**, **Nmap**, **SQLMap**
