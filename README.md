@@ -14,10 +14,10 @@
 - 🎯 Goal this year: **Submit valid bug reports** on bounty platforms
 
 ### 💻 Also passionate about Code & Development:
-- 👨‍💻 Enjoy writing scripts and building tools using **Python**
-- 🧩 Exploring **web development** using **HTML**, **CSS**, and **JavaScript**
-- 🔧 Love solving problems and tweaking on **Linux**
-- 💡 Always curious to automate boring tasks or build small tools for recon
+- 🐍 Focusing on **Python** to understand logic, scripting, and automation
+- 🌐 Strengthening the fundamentals of **HTML**, **CSS**, and **JavaScript** for web development
+- 🧩 Enjoy experimenting with code and building small personal projects
+- 🔍 Using programming as a way to support and enhance cybersecurity exploration
 
 > *You don't need to be smarter than others, you just need to be more disciplined than others*
 
