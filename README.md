@@ -14,7 +14,7 @@
 
 ### 🛡️ Cybersecurity:
 - 🧠 Exploring: **XSS**, **LFI**, **SQLi**, **Recon**
-- ⚙️ I enjoy working with tools like **Burp Suite**, **Nmap**, **SQLMap**
+- ⚙️ I enjoy working with tools like **Burp Suite**, **Nmap**, **SQLMap**. **Subfinder**, **Httpx**
 - 🕶️ Love uncovering hidden vulnerabilities and learning through real-world cases
 
 ### 💻 Also passionate about Code & Development:
