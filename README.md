@@ -13,7 +13,7 @@
 - Currently Focused On Self-Learning And Building Experience Through Real Practice
 
 ### 🛡️ Cybersecurity:
-- 🧠 Exploring: **XSS**, **LFI**, **SQLi**, **Recon**, **Information Disclosure**, **Sensitive File Exposure**
+- 🧠 Exploring: **XSS**, **LFI**, **SQLi**, **Recon**
 - ⚙️ I enjoy working with tools like **Burp Suite**, **Nmap**, **SQLMap**
 - 🕶️ Love uncovering hidden vulnerabilities and learning through real-world cases
 
