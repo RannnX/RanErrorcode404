@@ -6,14 +6,16 @@
 <h1 align="center">Hi 👋, I'm Rannn</h1>
 <h3 align="center"></h3>
 
-## About Me
-- I am a young person who likes to learn about technology, such as **cyber security**, **code**, and others.
-## 👨‍💻 Cyber Security
-- 🌱 Currently learning **Cybersecurity**, focusing on **Web Exploitation & Bug Bounty**
-- 🧠 Exploring: **XSS**, **LFI**, **SQLi**, **Recon**
+## 👨‍💻 About Me
+- I’m someone who loves to explore **technology**, **hacking**, and **code**
+- Always curious and excited to learn new things, especially in the cybersecurity field
+- My dream is to become a **Cyber Security Engineer**
+- Currently focused on self-learning and building experience through real practice
+
+### 🛡️ Cybersecurity:
+- 🧠 Exploring: **XSS**, **LFI**, **SQLi**, **Recon**, **Information Disclosure**, **Sensitive File Exposure**
 - ⚙️ I enjoy working with tools like **Burp Suite**, **Nmap**, **SQLMap**
-- 🕶️ Passionate about **Hacking** and love exploring web security vulnerabilities
-- 🎯 Goal this year: **Submit valid bug reports** on bounty platforms
+- 🕶️ Love uncovering hidden vulnerabilities and learning through real-world cases
 
 ### 💻 Also passionate about Code & Development:
 - 🐍 Focusing on **Python** to understand logic, scripting, and automation
